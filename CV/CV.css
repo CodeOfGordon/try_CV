@@ -1,0 +1,23 @@
+.body-block {
+    /*background-color: red;*/
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    width: 60%;
+    height: 1000px;
+}
+.body-block div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+.function {
+    flex-direction: row;
+    align-items: center;
+}
+button {
+    height: 40px;
+    width: 300px;
+}
+
